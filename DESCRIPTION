@@ -1,0 +1,13 @@
+Package: RandomLettersGenerator
+Type: Package
+Title: Generates a user-specified number of random letters
+Version: 0.1.0
+Author: Carlee Bettler
+Maintainer: Carlee Bettler <carlee.bettler@gmail.com>
+Description: This package generates a user-specified number of random capital English alphabet letters
+License: Loyola
+Encoding: UTF-8
+LazyData: true
+Imports:
+	stringi
+	
